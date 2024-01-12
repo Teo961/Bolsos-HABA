@@ -1,10 +1,8 @@
-***#Bolsos Multi Propósito, Cómodos y Amigables***
+***Bolsos Multi Propósito, Cómodos y Amigables***
 
-##Comodidad al salir de casa
+**Comodidad al salir de casa**
 
 ¡Descubre la **elegancia sostenible** con nuestros nuevos bolsos de mano! Encontrar el equilibrio perfecto entre estilo y conciencia ambiental nunca había sido tan fácil. Nuestros bolsos están diseñados pensando en mujeres que buscan artículos para el hogar, brindando la opción perfecta para complementar tu estilo mientras cuidas del planeta.
-
-><![endif]-->
 
 *Cada bolso está confeccionado con materiales ecológicos de alta calidad, asegurando durabilidad y un toque de moda ética. Desde nuestra producción hasta tu mano, nos comprometemos a reducir nuestra huella ambiental.*
 
@@ -15,10 +13,13 @@
 - [X] Apoya emprendimientos
 - [X] Solicita tu estilo y preferencia
 
-'''
 ¿Por qué sacrificar la moda por la sostenibilidad cuando puedes tener ambos? Con una variedad de estilos y colores, nuestros bolsos no solo resaltan tu personalidad, sino que también envían un mensaje claro: la moda responsable es el futuro. 
-'''
- **##Datos personales**
+
+ **Datos personales**
 | Nombre | Apellidos | Correo electrónico |
 |-----------| -----------|----------------
 | Herminson |Avendaño Bocanegra|-----------|
+
+Así que, si buscas el accesorio perfecto mientras contribuyes al bienestar del planeta, no busques más. ¡Haz una declaración de estilo con nuestros bolsos de mano ecológicos ahora mismo! 🌿👜
+
+ Moda Con Conciencia y Sostenibilidad Elegante
