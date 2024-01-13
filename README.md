@@ -4,6 +4,8 @@
 
 **Comodidad permanente**
 
+Cambios parciales para la página de bolsos
+
 ¡Descubre la **elegancia sostenible** con nuestros nuevos bolsos de mano! Encontrar el equilibrio perfecto entre estilo y conciencia ambiental nunca había sido tan fácil. Nuestros bolsos están diseñados pensando en mujeres que buscan artículos para el hogar, brindando la opción perfecta para complementar tu estilo mientras cuidas del planeta.
 
 *Cada bolso está confeccionado con materiales ecológicos de alta calidad, asegurando durabilidad y un toque de moda ética. Desde nuestra producción hasta tu mano, nos comprometemos a reducir nuestra huella ambiental.*
