@@ -22,4 +22,5 @@
 
 Así que, si buscas el accesorio perfecto mientras contribuyes al bienestar del planeta, no busques más. ¡Haz una declaración de estilo con nuestros bolsos de mano ecológicos ahora mismo! 🌿👜
 
- Moda Con Conciencia y Sostenibilidad Elegante
+ Moda Con Conciencia y Sostenibilidad Elegante "al ir de compras"
+ 
