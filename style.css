@@ -13,10 +13,8 @@ a{
 p{
     font: weight 400;
 }
-.News-content{
-    background-color: #f6f9f9;
-    
-}
+
+
 #News-content{
     color: #101111;
     display: flex;
@@ -28,11 +26,11 @@ p{
     font-style: helvetica;
 }
 h1{
-    color:#022f29;
-    background-color: #FFEC5C ;
+    color:#0a0b0b;
+    background-color: #04f9ec ;
     font-family: 'helvetica', Times, serif;
     text-align: center;
-    border: solid 5px #F24405;
+    border: solid 5px #211511;
     padding: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -61,12 +59,6 @@ th{
         body {
             background-color: lightblue;
         }
-        
-    }
-    .News-content{
-        border: 5px solid #f6f9f9;
-        margin: 5px;
-        
-    }
-    
 
+
+    }
